@@ -1,0 +1,2 @@
+Personal implementation of the 'LOX' language found in the https://craftinginterpreters.com/ text, by Robert Nystrom. 
+This work is my own pesonal study of Robert's language, and is implemented here as a purely academic pursuit. 
